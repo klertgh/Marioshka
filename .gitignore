@@ -1,0 +1,24 @@
+# Локальные настройки Visual Studio
+.vs/
+*.user
+*.suo
+*.VC.db
+*.VC.VC.opendb
+
+# Результаты сборки
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+ipch/
+*.obj
+*.pdb
+*.idb
+*.ilk
+*.tlog/
+*.lastbuildstate
+*.log
+*.exe
+*.dll
+*.lib
+*.exp
